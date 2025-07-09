@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Test_WebXR_2019.4.34",
+"productVersion": "0.1",
+"dataUrl": "paint.data.unityweb",
+"wasmCodeUrl": "paint.wasm.code.unityweb",
+"wasmFrameworkUrl": "paint.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.34f1"
+}
